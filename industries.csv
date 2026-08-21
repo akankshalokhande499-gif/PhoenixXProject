@@ -1,0 +1,22 @@
+name,city,type,waste,capacity,price,lat,lon
+GreenPower Cogen Plant,Pune,Cogeneration / Bioelectricity,Bagasse,120,2200,18.5679,73.9143
+Sahyadri Paper Mills,Kolhapur,Pulp and Paper Production,Bagasse,80,3100,16.6809,74.2432
+EcoBoard Industries,Satara,Particleboard / MDF Manufacture,Bagasse,40,2800,17.6599,74.0083
+BioFuel Solutions Sangli,Sangli,Second-Generation (2G) Bioethanol,Bagasse,60,4200,16.8624,74.5915
+Kisan Compost Co,Pune,Composting,Bagasse,30,1500,18.4575,73.8508
+Deccan Energy Ltd,Kolhapur,Cogeneration / Bioelectricity,Bagasse,150,2350,16.7186,74.2554
+Warana BioChar Unit,Kolhapur,Biochar Production,Bagasse,25,2600,16.7967,74.2135
+Panchganga Board Mills,Satara,Particleboard / MDF Manufacture,Bagasse,35,2700,17.6935,74.0301
+Krishna Valley Organics,Pune,Composting,Press Mud,45,1800,18.5308,73.8474
+Sangli Bio Fertilizers,Sangli,Bio-fertilizer / Organic Manure,Press Mud,70,2100,16.8483,74.5697
+Kolhapur Wax Extractors,Kolhapur,Sugarcane Wax Extraction,Press Mud,20,3500,16.6942,74.2298
+Satara Biogas Plant,Satara,Biogas / Anaerobic Digestion,Press Mud,50,1900,17.6712,74.0219
+EcoManure Pune,Pune,Vermicomposting,Press Mud,25,1700,18.5089,73.8827
+Sangli Soil Conditioners,Sangli,Soil Conditioner,Press Mud,60,1600,16.8399,74.5901
+Warana Biomass Fuels,Kolhapur,Biomass Pellet / Fuel Production,Sugarcane Trash,90,1900,16.7302,74.2601
+Pune AgriResidue Energy,Pune,Cogeneration / Bioelectricity,Sugarcane Trash,110,2000,18.5433,73.8951
+Satara Compost Works,Satara,Composting,Sugarcane Trash,40,1400,17.6889,74.0402
+Sangli Biochar Facility,Sangli,Biochar Production,Sugarcane Trash,30,2500,16.8215,74.5734
+Kolhapur Ethanol Refinery,Kolhapur,Second-Generation (2G) Bioethanol,Sugarcane Trash,75,4000,16.6588,74.2701
+Pune Mulch Suppliers,Pune,Mulching,Sugarcane Trash,20,1200,18.5735,73.8302
+Deccan Trash Pellets,Satara,Biomass Pellet / Fuel Production,Sugarcane Trash,65,1950,17.7051,73.9987
